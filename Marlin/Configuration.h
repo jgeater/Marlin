@@ -70,7 +70,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(Ender3 SKR14Pro V2020.07.02)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Ender3 SKR14Pro V2020.10.28)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
